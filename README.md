@@ -18,7 +18,7 @@ TBW
 If you find this work useful for your research, please cite our papers:
 
 ```
-@article{kim2024infoverse,
+@article{delangis2024dynamic,
   title={Dynamic Multi-Reward Weighting for Multi-Style Controllable Generation},
   author={de Langis, Karin and Koo, Ryan and Kang, Dongyeop},
   journal={The Conference on Empirical Methods in Natural Language Processing (EMNLP)},
