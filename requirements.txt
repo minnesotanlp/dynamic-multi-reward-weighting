@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+datasets
+peft
+trl
+wandb
+boto3
+sentencepiece
+plotly
+torchtext
+scikit-learn
